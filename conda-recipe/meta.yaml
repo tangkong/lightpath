@@ -42,6 +42,7 @@ test:
     - ipython
     - pytest
     - pytest-qt
+    - pytest-cov
 
 about:
   home: https://github.com/pcdshub/lightpath
